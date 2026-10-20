@@ -1,7 +1,7 @@
 # Embedded-M01 ⚡
 
 <p align="center">
-  <img src="../Embedded-M00/assets/atmega328p.png" alt="ATmega328P board illustration" width="330" height="170" style="border-radius: 12px;" />
+  <img src="assets/atmega328p.png" alt="ATmega328P board illustration" width="330" height="170" style="border-radius: 12px;" />
 </p>
 
 This module continues the AVR learning path with a focus on timing, GPIO control, and stable low-level routines. It introduces the idea that software timing and output control are built from hardware registers, loops, and careful calibration.
